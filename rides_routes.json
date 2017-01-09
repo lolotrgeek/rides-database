@@ -1,4 +1,4 @@
 {
   "/api/": "/",
-  "/": "rides?sort=estimated_duration_seconds&_order=DESC&_limit=10"
+  "/": "/rides?sort=estimated_duration_seconds&_order=DESC&_limit=10"
 }
